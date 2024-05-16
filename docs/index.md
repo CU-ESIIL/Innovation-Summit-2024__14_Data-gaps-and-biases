@@ -43,26 +43,28 @@ Flash-flood forecasting is uniquely challenging due to the convergence of large-
 <figure>
   <img src="plots/montly_allyears.png"/>
   <figcaption><b>Figure 3. Monthly Distribution of Flash Flood Observations</b>
-
-
-- **Observation:**
-  - Flash flood observations are highest in July and August, indicating a seasonal pattern, likely due to heavy summer rainfall or monsoon activity.
-  - There is a noticeable increase in observations in October, suggesting a secondary peak, possibly related to fall weather patterns or tropical storm remnants.
-  - **Bias Detection:** The data is heavily skewed towards certain months, which could introduce seasonal bias. This needs to be accounted for in predictive models to avoid overfitting to these months.
-  - **Data Gaps:** There are fewer observations in other months, which may represent gaps in data collection or lower flash flood occurrences.
-  - </figcaption>
+  </figcaption>
 </figure>
+
+**Observation:**
+
+- Flash flood observations are highest in July and August, indicating a seasonal pattern, likely due to heavy summer rainfall or monsoon activity.
+- There is a noticeable increase in observations in October, suggesting a secondary peak, possibly related to fall weather patterns or tropical storm remnants.
+- **Bias Detection:** The data is heavily skewed towards certain months, which could introduce seasonal bias. This needs to be accounted for in predictive models to avoid overfitting to these months.
+- **Data Gaps:** There are fewer observations in other months, which may represent gaps in data collection or lower flash flood occurrences.
 
 <figure>
   <img src="plots/yearly.png"/>
   <figcaption><b>Figure 4. Yearly Distribution of Flash Flood Observations</b>
-
-- **Observation:**
-  - The number of observations varies significantly by year, with a noticeable drop in 2020. This might be due to reduced data collection during the COVID-19 pandemic.
-  - There is an increasing trend in observations from 2019 to 2022.
-  - **Bias Detection:** The drop in 2020 and varying annual counts could introduce temporal bias. It's important to ensure the model can generalize across different years.
-  - **Data Gaps:** The low number of observations in 2020 indicates a significant gap, which could affect the reliability of long-term trend analysis.</figcaption>
+</figcaption>
 </figure>
+
+**Observation:**
+  
+- The number of observations varies significantly by year, with a noticeable drop in 2020. This might be due to reduced data collection during the COVID-19 pandemic.
+- There is an increasing trend in observations from 2019 to 2022.
+- **Bias Detection:** The drop in 2020 and varying annual counts could introduce temporal bias. It's important to ensure the model can generalize across different years.
+- **Data Gaps:** The low number of observations in 2020 indicates a significant gap, which could affect the reliability of long-term trend analysis.
 
 #### Challenge Datasets
 
