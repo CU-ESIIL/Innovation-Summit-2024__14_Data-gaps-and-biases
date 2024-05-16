@@ -1,6 +1,6 @@
 ![<img src="./data-dragon.jpeg" width="100"/>](./data-dragon.jpeg)
 
-# Data Dirt and Data Draughts
+# Data Dirt and Data Draught
 **Connecting Communities to Cultivate the Environmental Data Ecosystem**
 
 ### Research Question
@@ -32,19 +32,13 @@ Flash-flood forecasting is uniquely challenging due to the convergence of large-
 
 <figure>
   <img src="Figure_1_flood_risk.png"/>
-  <figcaption><b>Figure 1. Spatial variability in flood risks.</b>  Map of county-level flood risks in the Eastern, Continental USA (location shown by the image on the top right). Overlaying the map as black dots, we see the spatial distribution of flash-flooding events. </figcaption>
+  <figcaption><b>Figure 1. Spatial variability in flood risks.</b>  Map of county-level flood risks in the Western Continental USA (location shown by the image on the top right). Overlaying the map as black dots, we see the spatial distribution of flash-flooding events. </figcaption>
 </figure>
 
 <figure>
   <img src="Figure_2_distribution_comparison.png"/>
-  <figcaption><b>Figure 2. Scarcity of flash-flood reference data.</b> in <b>a)</b>, a comparison of the cummulative distributions of flood risks within the region mapped in <b>Fig. 1</b> (black line), and the distribution of this varible as sampled by existing reference data on flash-flood events (red line). The pink polygon illustrates the difference between the two populations. In <b>b)</b>, the freqency distribution of flash-flood risks in the region of interest.</figcaption>
+  <figcaption><b>Figure 2. Scarcity of flash-flood reference data.</b> In <b>a)</b>, a comparison of the cummulative distributions of flood risks within the region mapped in <b>Fig. 1</b> (black line), and the distribution of this varible as sampled by existing reference data on flash-flood events (red line). The pink polygon illustrates the difference between the two populations. In <b>b)</b>, the freqency distribution of flash-flood risks in the region of interest.</figcaption>
 </figure>
-
-#### Illustration: Flash-Flood Data Dirt
-
-TODO Figure
-
-`Flash-Flood Observations over Time`
 
 #### Challenge Datasets
 
@@ -156,23 +150,5 @@ Participants are required to submit:
   - **Reflection on Polarities Exercise:** 
   
 ---
-
-### Day 2 Report Back
-
-What worked well for your team?
-  - Free-floating brainstorming in the divergent-thinking phase
-  - Turn-taking to work toward convergence
-  - Splitting up tasks based on expertise and necessities
-    
-What’s one thing you would change?
-  - More streamlined data sharing and data access
-
-Did your group ever have an “ah-ha” moment? What led up to that moment?
-  - Yes; in the lead-up to that, one technical person pitched the idea of designing challenges to engage with ML people, and one person with domain expertise jumped onto that with lots of ideas about challenges related to flash floods
-  - After that, we had the basic structure for our three-pronged engagement approach
-
-Did your group experience the groan zone? What is one tip you want to share with future groups at the Summit about getting through the groan zone?
-  - We probably experienced the groan zone yesterday already (goal wasn't clear; discussion turning in circles)
-  - The check-in round in the morning established a good working climate to iterate through phases of divergent and convergent thinking
 
 --------------------------------------------------------------
