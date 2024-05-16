@@ -103,17 +103,19 @@ Example datasets: comparison of similar forests that have had different manageme
 3. Weather models vs. climatology: Do long-term weather-model ensembles improve water-supply forecasts for the Colorado River?  
 Example datasets: Archived ensemble forecasts covering the 6-9 months forecast period + Colorado River water supply re-forecasts – one generated using climatology and the other using archived weather-ensemble output
 
+---
+
 ### Future Plans
 
 #### What are the next steps?
 
 Short-term: 
-* Initiate contact with ML community to lay groundwork for creating challenges
-* Write vision paper: create a template for challenges and how to incorporate ESIIL / scientific community
+- Initiate contact with ML community to lay groundwork for creating challenges
+- Write vision paper: create a template for challenges and how to incorporate ESIIL / scientific community
   
 Long-term:
-* Create a challenge that is hosted bu AI for good or other
-* Create a formal template for scientists to submit challenges to ML community via ESIIL platform
+- Create a challenge that is hosted bu AI for good or other
+- Create a formal template for scientists to submit challenges to ML community via ESIIL platform
 
 #### What are we missing?
 - Resources: Funding for challenge prizes?
