@@ -42,7 +42,7 @@ Flash-flood forecasting is uniquely challenging due to the convergence of large-
 
 <figure>
   <img src="plots/montly_allyears.png"/>
-  <figcaption><b>Figure 4. Monthly Distribution of Flash Flood Observations</b>
+  <figcaption><b>Figure 3. Monthly Distribution of Flash Flood Observations</b>
 
 
 - **Observation:**
@@ -57,7 +57,7 @@ Flash-flood forecasting is uniquely challenging due to the convergence of large-
 
 <figure>
   <img src="plots/yearly.png"/>
-  <figcaption><b>Figure 5. SYearly Distribution of Flash Flood Observations</b>
+  <figcaption><b>Figure 4. SYearly Distribution of Flash Flood Observations</b>
 
 - **Observation:**
   - The number of observations varies significantly by year, with a noticeable drop in 2020. This might be due to reduced data collection during the COVID-19 pandemic.
