@@ -1,21 +1,18 @@
 ![<img src="./data-dragon.jpeg" width="100"/>](./data-dragon.jpeg)
 
 # Data Dirt and Data Draughts
-## Connecting Communities to Cultivate the Environmental Data Ecosystem
+**Connecting Communities to Cultivate the Environmental Data Ecosystem**
 
 ### Research Question
 #### Starting Question
-
 > What gaps/biases are present in environmental data sets that are critical for assessing adaptation and resilence, and how can we address them?
 
 #### Refined Question
-
 > How can we bring together domain expertise (environmental science) with technical expertise (data science and machine learning) to identify and remedy data biases and data gaps in the environmental data ecosystem?
 
 ---
 
 ### Our Three-Pronged Approach
-
 1. Data-centric machine-learning challenges  
    Inspirations: e.g., [DataPerf](https://www.dataperf.org/home) by [MLCommon's DMLR Group](https://mlcommons.org/working-groups/research/dmlr/) and [ITU AI for Good Challenge](https://aiforgood.itu.int/about-ai-for-good/aiml-solutions-for-climate-change/)
 2. Data cards to document environmental datasets  
@@ -27,15 +24,21 @@
 ### Guiding Example: Flash-Flood Prediction
 
 #### Description
-Flash flood forecasting is uniquely challenging due to the convergence of meteorological and hyperlocal hydrological conditions that influence flash flood outcomes.  
-There is a need to better predict the risk of flash floods in order to issue flash-flood warnings with more advanced notice.  
-A barrier to improving flash-flood forecasting is that data is too sparse in many regions to be able to accurately predict flash-flood risk in a timely manner.
+<p align="justify">
+Flash-flood forecasting is uniquely challenging due to the convergence of large-scale meteorological states, and hyperlocal hydrological conditions. Conversely, predicting flash-flood risks accurately is critical to enable advanced civil warnings to mitigate flood damages. To achieve better predictions, improvements in modelling algorithms are typically persued. Yet, such investments are likely to offer only an apparance of progress if informed by biased reference data on flash-flood occurrents. Indeed, preliminary results show that these reference data suffer from extensive spatial and temporal gaps and biases. Because these biases prevent an accurate description of the environmental niche contributing to flash floods, modelling efforts are likely to fail in out-of-sample predictions. This limits accurate and timely flash-flood predictions.
+</p>
 
 #### Illustration: Flash-Flood Data Draught
 
-TODO Figures
+<figure>
+  <img src="Figure_1_flood_risk.png"/>
+  <figcaption><b>Figure 1. Spatial variability in flood risks.</b>  Map of county-level flood risks in the Eastern, Continental USA (location shown by the image on the top right). Overlaying the map as black dots, we see the spatial distribution of flash-flooding events. </figcaption>
+</figure>
 
-`Flash-Flood Observations vs. Flash-Flood Risk, based on FEMA Riverine Flooding Data`
+<figure>
+  <img src="Figure_2_distribution_comparison.png"/>
+  <figcaption><b>Figure 2. Scarcity of flash-flood reference data.</b> in <b>a)</b>, a comparison of the cummulative distributions of flood risks within the region mapped in <b>Fig. 1</b> (black line), and the distribution of this varible as sampled by existing reference data on flash-flood events (red line). The pink polygon illustrates the difference between the two populations. In <b>b)</b>, the freqency distribution of flash-flood risks in the region of interest.</figcaption>
+</figure>
 
 #### Illustration: Flash-Flood Data Dirt
 
@@ -123,8 +126,8 @@ Participants are required to submit:
 - **Member 5:**
   - **Name:** Ruben Remelgado
   - **Pronouns:** He/him
-  - **Expertise:** Remote Sensing, Biodiversity Change, Multidisciplinary studies
-  - **Environmental Data Science Superpower:** Data integration and synthesis across disciplines
+  - **Expertise:** Remote Sensing, Biodiversity Change, Multi and cross-disciplinary studies
+  - **Environmental Data Science Superpower:** Data integration and synthesis across disciplines; wrangling of geospatial environmental data  
   - **Reflection on Polarities Exercise:** A lot of movement in the room; very mixed crowd.
   ---
 
