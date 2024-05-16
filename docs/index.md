@@ -90,7 +90,8 @@ How much does the model improve with regard to other evaluation criteria, such a
 
 3. Practicality and novelty of the proposed procedure
 
-Participants are required to submit:  
+Participants are required to submit: 
+
 - The developed code
 - A challenge-dependent output deliverable
 - A written report explaining the solution
@@ -110,10 +111,12 @@ Example datasets: Archived ensemble forecasts covering the 6-9 months forecast p
 #### What are the next steps?
 
 Short-term: 
+
 - Initiate contact with ML community to lay groundwork for creating challenges
 - Write vision paper: create a template for challenges and how to incorporate ESIIL / scientific community
   
 Long-term:
+
 - Create a challenge that is hosted bu AI for good or other
 - Create a formal template for scientists to submit challenges to ML community via ESIIL platform
 
