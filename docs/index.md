@@ -25,7 +25,7 @@
 
 #### Description
 <p align="justify">
-Flash-flood forecasting is uniquely challenging due to the convergence of large-scale meteorological states, and hyperlocal hydrological conditions. Conversely, predicting flash-flood risks accurately is critical to enable advanced civil warnings to mitigate flood damages. To achieve better predictions, improvements in modeling algorithms are typically pursued. Yet, such investments are likely to offer only an apparance of progress if informed by biased reference data on flash-flood occurrences. Indeed, preliminary results show that these reference data suffer from extensive spatial and temporal gaps and biases. Because these biases prevent an accurate description of the environmental niche contributing to flash floods, modeling efforts are likely to fail in out-of-sample predictions. This limits accurate and timely flash-flood predictions.
+Flash-flood forecasting is uniquely challenging due to the convergence of large-scale meteorological states, and hyperlocal hydrological conditions. Conversely, predicting flash-flood risks accurately is critical to enable advanced civil warnings to mitigate flood damages. To achieve better predictions, improvements in modeling algorithms are typically pursued. Yet, such investments are likely to offer only an appearance of progress if informed by biased reference data on flash-flood occurrences. Indeed, preliminary results show that these reference data suffer from extensive spatial and temporal gaps and biases. Because these biases prevent an accurate description of the environmental niche contributing to flash floods, modeling efforts are likely to fail in out-of-sample predictions. This limits accurate and timely flash-flood predictions.
 </p>
 
 #### Illustration: Flash-Flood Data Draught
@@ -66,14 +66,18 @@ Flash-flood forecasting is uniquely challenging due to the convergence of large-
 
 #### Challenge Datasets
 
-* Observed precipitation data
-* Radar data
+* Flash Flood Observations: 2010-2024 via National Weather Service (NWS) Local Storm Reports dataset and local office databases
+* Historical Precipitation Data: sources - Archived Radar Precipitation Estimates, Analysis of Record Precipitation Data, Archived Precipitation Estimates
+* National Risk Index map Author: Federal Emergency Management Agency (FEMA) source: https://hazards.fema.gov/nri/riverine-flooding
+* Flash Flood Potential Risk Index: source - National Weather Service River Forecast Centers
+* Archived River Gage Data: source - U.S. Geological Society
+* Flash Flood Monitoring and Prediction Delineated Basins: Source - NOAA National Severe Storms Laboratory
 
-However, these data often have severe limitations (e.g., areas with poor radar data and no observations are most prone to flash flooding). 
+However, these data often have severe limitations (e.g., areas prone to flash flooding have highly biased precipitation data due to limited radar data coverage and a sparse observational network). 
 
 #### Example Objectives
 1. Mitigating data draughts: Identify specific areas to add NOAA sensors
-2. Mitigating data dirt: Select subset of data used to train models that improves the performance of flash-flood-prediction models
+2. Mitigating data dirt: Select subset of data used to train models that improves the performance of flash-flood-prediction models (another option - develop a historical flash flood precipitation dataset that mitigates the highly biased precipitation and flash flood observation data in critical flash flood areas)
 
 #### Evaluation
 Each submission will be scored considering the three aspects listed below:
