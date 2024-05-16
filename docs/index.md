@@ -68,6 +68,14 @@ Participants are required to submit:
 - A written report explaining the solution
 
 ---
+### Example Projects
+1. Do Teleconnections (ex. El Nino/La Nina) Impact Water Supply For Lake Mead and Lake Powell
+  -- datasets: historical reservoir inflow volumes, historical teleconnection indices
+3. Which Geographic Area Would Beneift Most From a Prescribed Burn
+  -- datasets: comparison of similar forests that have had different management practices
+4. Weather Models vs Climatology: Do Long Term Weather Model Ensembles Improve Water Supply Forecasts For the Colorado River
+ -- datasets: Archived Ensemble Forecasts covering the 6-9 month forecast period, Colorado River Water Supply Reforcasts - one generated using climatology and another using archived weather ensemble output
+5. 
 
 ### Future Plans
 
