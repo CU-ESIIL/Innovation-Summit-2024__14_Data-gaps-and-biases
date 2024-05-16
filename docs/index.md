@@ -63,9 +63,9 @@ How much does the model improve with regard to other evaluation criteria, such a
 3. Practicality and novelty of the proposed procedure
 
 Participants are required to submit:
-* The developed code
-* A challenge-dependent output deliverable
-* A written report explaining the solution
+- The developed code
+- A challenge-dependent output deliverable
+- A written report explaining the solution
 
 ---
 
