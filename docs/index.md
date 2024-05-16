@@ -107,13 +107,16 @@ Example datasets: Archived ensemble forecasts covering the 6-9 months forecast p
 
 #### What are the next steps?
 
-- Short-term: TODO
-- Long-term: TODO
+Short-term: 
+- Initiate contact with ML community to lay groundwork for creating challenges
+- Write vision paper: create a template for challenges and how to incorporate ESIIL / scientific community
+Long-term:
+- Create a challenge that is hosted bu AI for good or other
+- Create a formal template for scientists to submit challenges to ML community via ESIIL platform
 
 #### What are we missing?
-- Resources: TODO
-- People: TODO
-- Datasets: TODO
+- Resources: Funding for challenge prizes?
+- People: AI / ML community
 
 ---
 
